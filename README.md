@@ -1,6 +1,11 @@
-# Proxmox Mail Gateway + Ikarus
+# Proxmox Mail Gateway + Ikarus (unfinished)
 
 > Proxmox Mail Gateway Custom Check Interface for the Ikarus Server.
+
+# TODO
+
+- version number
+- read files
 
 ## Info
 
@@ -8,11 +13,12 @@ For use cases which are not handled by the Proxmox Mail Gateway Virus Detector a
 
 ## Links
 
+[Packages / Scripts + Quick Start Guide (download)](https://fx.ikarus.at/scan.server/)
 [PMG admin guid](https://pmg.proxmox.com/pmg-docs/pmg-admin-guide.html#pmgconfig_custom_check)
 
 ## server
 
-> ikarus-scanserver-1.7.2_amd64.deb [(download)](https://fx.ikarus.at/scan.server/)
+> ikarus-scanserver-1.7.2_amd64.deb
 > (license required)
 
 ### working
